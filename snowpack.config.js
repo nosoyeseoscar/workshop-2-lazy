@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'http://nosoyeseoscar.github.io/workshop-2-lazy/',
   },
 }
